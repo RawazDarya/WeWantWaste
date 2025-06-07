@@ -4,7 +4,7 @@ A modern, responsive website for skip hire services built with React, TypeScript
 
 ## 🚀 Live Demo
 
-**Deployed Site:** [https://keen-twilight-74e1b4.netlify.app](https://keen-twilight-74e1b4.netlify.app)
+**Deployed Site:** [https://wewantwasteee.netlify.app/](https://wewantwasteee.netlify.app/)
 
 ## 📋 Project Overview
 
