@@ -215,7 +215,7 @@ This project is proprietary and confidential. All rights reserved.
 
 For questions about this project or collaboration opportunities:
 - **Project Repository:** [GitHub Link]
-- **Live Demo:** [https://keen-twilight-74e1b4.netlify.app](https://keen-twilight-74e1b4.netlify.app)
+- **Live Demo:** [https://wewantwasteee.netlify.app/](https://wewantwasteee.netlify.app/)
 - **Technical Documentation:** See inline code comments and this README
 
 ---
