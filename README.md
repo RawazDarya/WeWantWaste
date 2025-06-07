@@ -214,7 +214,7 @@ This project is proprietary and confidential. All rights reserved.
 ## 📞 Contact
 
 For questions about this project or collaboration opportunities:
-- **Project Repository:** [GitHub Link]
+- **Project Repository:** [https://github.com/RawazDarya/WeWantWaste]
 - **Live Demo:** [https://wewantwasteee.netlify.app/](https://wewantwasteee.netlify.app/)
 - **Technical Documentation:** See inline code comments and this README
 
